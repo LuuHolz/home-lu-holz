@@ -1,7 +1,6 @@
 import { NavbarHome } from "../components/NavbarHome"
 
 
-
 const Home = () => {
   return (
     <>
